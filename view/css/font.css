@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Nilland';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland'), url('Nilland.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Nilland-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland-Bold'), url('Nilland-Bold.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Nilland-SmallCaps';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland-SmallCaps'), url('Nilland-SmallCaps.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Nilland-ExtraBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland-ExtraBold'), url('Nilland-ExtraBold.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Nilland-Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland-Black'), url('Nilland-Black.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Nilland-SmallCaps-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Nilland-SmallCaps-Bold'), url('Nilland-SmallCaps-Bold.woff') format('woff');
+    }

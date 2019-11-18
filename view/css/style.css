@@ -1,0 +1,26 @@
+@charset "UTF-8";
+:root {
+   --primary : #557A95;
+   --secondary : #245E58;
+   --tertiary : #112D32;
+   --fourth : #5D5C61;
+   --header :#ffffff;
+   --text : #000;
+}
+.header {
+   background: var(--primary);
+}
+.sidenav {
+   background: var(--secondary);
+}
+.main {
+   background: var(--tertiary);
+}
+.footer {
+   background: var(--fourth);
+}
+
+.rightsidenav {
+   background: var(--secondary);
+}
+
